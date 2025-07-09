@@ -22,9 +22,9 @@ A full-stack **MERN** (MongoDB, Express.js, React.js, Node.js) based Service Des
 - Responsive design for all screen sizes.
 - Role-based rendering and routing (admin vs user).
 
----
-
 ## 🗂️ Project Structure
+
+```
 SDA/
 ├── backend/
 │   ├── middleware/
@@ -59,9 +59,8 @@ SDA/
 │   ├── .env
 │   ├── .gitignore
 │   └── README.md
+```
 
-
----
 
 ## ⚙️ Tech Stack
 
@@ -128,8 +127,13 @@ Follow the steps below to get the Service Desk Application up and running locall
 ### 📦 Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/service-desk-app.git
+git clone https://github.com/Satyam23092003/service-desk-app.git
 cd service-desk-app
+```
 
+## 🙌 Acknowledgements
 
+- Special thanks to **Celebal Technologies** for providing this amazing learning opportunity.
+- Thanks to my mentor and peers for constant guidance and support.
 
+---
