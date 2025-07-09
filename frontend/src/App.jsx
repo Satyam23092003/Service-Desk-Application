@@ -71,7 +71,7 @@ import TicketDetail from './pages/TicketDetail';
 import AdminPanel from './pages/AdminPanel';
 
 import { AuthProvider, useAuth } from './contexts/AuthContext';
-import Footer from './components/Footer';
+// import Footer from './components/Footer';
 
 function PrivateRoute({ children }) {
   const { user } = useAuth();
@@ -115,7 +115,7 @@ export default function App() {
           </div>
 
           {/* Footer always at the bottom */}
-          <Footer   />
+          {/* <Footer   /> */}
         </div>
       </Router>
     </AuthProvider>
