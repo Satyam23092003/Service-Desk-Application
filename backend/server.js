@@ -4,7 +4,12 @@ const cors = require('cors');
 const mongoose = require('mongoose');
 
 const app = express();
-app.use(cors());
+app.use(cors(
+  {
+
+    credentials: true, // Allow credentials (cookies, authorization headers, etc.)
+  }
+));
 app.use(express.json());
 
 // MongoDB connection
