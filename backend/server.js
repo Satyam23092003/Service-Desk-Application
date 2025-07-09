@@ -6,8 +6,8 @@ const mongoose = require('mongoose');
 const app = express();
 app.use(cors(
   {
-
-    credentials: true, // Allow credentials (cookies, authorization headers, etc.)
+    origin: process.env.CLIENT_URL || 'http://localhost:5173', // Replace with your client URL
+    credentials: true, 
   }
 ));
 app.use(express.json());
