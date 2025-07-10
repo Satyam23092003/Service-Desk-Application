@@ -4,6 +4,8 @@ A full-stack **MERN** (MongoDB, Express.js, React.js, Node.js) based Service Des
 
 ---
 
+
+---
 ## 🚀 Features
 
 ### 👤 User Features
@@ -60,6 +62,19 @@ SDA/
 │   ├── .gitignore
 │   └── README.md
 ```
+## 📷 Screenshots
+
+### 🔐 Login Page
+![Login Page](./frontend/src/assets/11.png)
+
+### 📋 Ticket List View
+![Ticket List](./frontend/src/assets/12.png)
+
+### 📝 Ticket Details
+![Ticket Details](./frontend/src/assets/33.png)
+
+### 👤 Admin Dashboard
+![Admin Dashboard](./frontend/src/assets/44.png)
 
 
 ## ⚙️ Tech Stack
