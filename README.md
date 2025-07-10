@@ -153,3 +153,25 @@ cd service-desk-app
 - Thanks to my mentor and peers for constant guidance and support.
 
 ---
+## 📬 Contact Me
+
+I'm always open to collaborating on interesting projects or discussing new opportunities.
+
+<p align="center">
+  <a href="mailto:satyam85409@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
+  </a>
+  <a href="https://www.linkedin.com/in/kumar-satyam-298507250/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://github.com/Satyam23092003" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
+  </a>
+</p>
+
+---
+
+📍 **Location:** India  
+💼 **Available for:** Internships, Freelance, or Full-time Roles  
+🕓 **Timezone:** IST (GMT +5:30)
+
