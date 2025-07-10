@@ -4,6 +4,13 @@ A full-stack **MERN** (MongoDB, Express.js, React.js, Node.js) based Service Des
 
 ---
 
+# 🔐 Admin Credentials - Service Desk Application
+
+Use the following credentials to log in as an **Admin** in the Service Desk Application:
+
+- **Admin Email:** `admin9939@gmail.com`
+- **Password:** `admin`
+
 
 ---
 ## 🚀 Features
