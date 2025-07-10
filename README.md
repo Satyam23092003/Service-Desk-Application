@@ -65,16 +65,17 @@ SDA/
 ## 📷 Screenshots
 
 ### 🔐 Login Page
-![Login Page](./frontend/src/assets/11.png)
+![Login Page](./frontend/src/assets/44.png)
+
 
 ### 📋 Ticket List View
 ![Ticket List](./frontend/src/assets/12.png)
 
-### 📝 Ticket Details
+### 📝 Register Page
 ![Ticket Details](./frontend/src/assets/33.png)
 
 ### 👤 Admin Dashboard
-![Admin Dashboard](./frontend/src/assets/44.png)
+![Admin Dashboard](./frontend/src/assets/11.png)
 
 
 ## ⚙️ Tech Stack
